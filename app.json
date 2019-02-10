@@ -25,7 +25,10 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "",
+    "android": {
+      "package": "com.abbott.calculator"
+    },    
+    "description": "Calculadora de Nutricion",
     "githubUrl": "https://github.com/diegotorres50/abbott-expo-demo-2"
   }
 }
